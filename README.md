@@ -13,7 +13,7 @@ It creates a proxy in front of Jira REST API. It was motivated due to some scena
 
 ### * A webserver is started
 ```
-The nodeJS webserver role as a proxy > 
+The nodeJS webserver roles as a proxy > 
     requests sent to the webserver are internally redirected to JIRA API, those cookies recieved by the automated browser are user at this point.
 ```
 
